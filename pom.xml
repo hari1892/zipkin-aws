@@ -62,12 +62,12 @@
     <!-- Use later version of: Armeria, Spring Boot, latest CVE fix -->
     <jackson.version>2.9.9.20190807</jackson.version>
     <spring-boot.version>2.1.7.RELEASE</spring-boot.version>
-    <armeria.version>0.90.3</armeria.version>
+    <armeria.version>1.19.0</armeria.version>
 
     <mockito.version>2.28.2</mockito.version>
 
     <!-- override to set exclusions per-project -->
-    <errorprone.args />
+    <errorprone.args/>
     <errorprone.version>2.3.3</errorprone.version>
 
     <maven-failsafe-plugin.version>3.0.0-M3</maven-failsafe-plugin.version>
